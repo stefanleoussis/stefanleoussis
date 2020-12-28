@@ -2,4 +2,9 @@
 
 - 📫 How to reach me: 
      Linkedin: @stefanleoussis
-     [linkedin]: https://www.linkedin.com/in/stefanleoussis/
+
+
+![](Lochness/Lochness%20Monster-01.svg)
+
+
+
