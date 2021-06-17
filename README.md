@@ -4,7 +4,7 @@
      
  # Hello and Welcome! I'm Stefan 👋
 
-| Sheridan College Graduate - Full stack web/mobile developer - Basketball Enthusiast (Go Raps!) |
+| Sheridan College Graduate - Full Stack Web/Mobile developer - Basketball Enthusiast (Go Raps!) |
 
 </div>
 
