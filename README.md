@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
+     
+<img src="Lochness/Lochness%20Monster-01.svg"  width="150" height="150" /> 
+     
+ # Hello and Welcome! I'm Stefan 👋
 
-<!--
-**stefanleoussis/stefanleoussis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Sheridan College Graduate - Full-Time Full Stack Web/Mobile developer - Full-Time CS Student at Brock University |
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻  Tech Stack
+
+- Cloud: Azure - Azure Dev Ops
+- Language: JavaScript
+- Front End: React/ReactNative
+- Back End: Express/Node.js/MongoDB
+- API: REST API and GraphQL (Apollo Server Implementation)
+
+## 📫 How to reach me: <br>
+   Linkedin: @stefanleoussis
+     
+
+[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanleoussis&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
