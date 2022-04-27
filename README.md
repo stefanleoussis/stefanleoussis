@@ -1,7 +1,5 @@
 <div align="center">
-     
-<img src="Lochness/Lochness%20Monster-01.svg"  width="150" height="150" /> 
-     
+    
  # Hello and Welcome! I'm Stefan 👋
 
 | Sheridan College Graduate - Full-Time Full Stack Web/Mobile developer - Full-Time CS Student at Brock University |
