@@ -2,7 +2,7 @@
     
  # Hello and Welcome! I'm Stefan 👋
 
-| Sheridan College Graduate - Full-Time Full Stack Web/Mobile developer - Full-Time CS Student at Brock University |
+| Sheridan College Graduate - Software Engineer @ WW - Part-time CS at York University |
 
 </div>
 
@@ -18,5 +18,3 @@
    Linkedin: @stefanleoussis
      
 
-
-[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanleoussis&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
