@@ -2,7 +2,7 @@
     
  # Hello and Welcome! I'm Stefan 👋
 
-| Sheridan College Graduate - Software Engineer @ WW - Part-time CS at York University |
+| Sheridan College Graduate - Software Engineer @ WW - Part-Time CS at York University |
 
 </div>
 
