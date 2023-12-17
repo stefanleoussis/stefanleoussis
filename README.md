@@ -2,7 +2,7 @@
     
  # Hello and Welcome! I'm Stefan 👋
 
-| Software Engineer @ WeightWatchers 👨‍💻 |
+### Software Engineer @ WeightWatchers 👨‍💻
 
 </div>
 
