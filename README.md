@@ -7,8 +7,6 @@
 </div>
 
 
-## 📫 Connect with me: <br>
-   Linkedin: @stefanleoussis
      
 
 
