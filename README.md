@@ -7,7 +7,7 @@
 </div>
 
 
-## 📫 How to reach me: <br>
+## 📫 Connect with me: <br>
    Linkedin: @stefanleoussis
      
 
