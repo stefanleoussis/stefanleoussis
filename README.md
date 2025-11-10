@@ -1,2 +1,1 @@
-
-Software Engineer - Currently building **GitHired AI** (githired.app)
+Currently building **GitHired AI** (githired.app)
